@@ -11,9 +11,9 @@ Rodrigo Ferreira
 Vinicius Felce
 
 when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-
- 
+-
+-
+-
 >>>>>>> a5831b7b2428f67cba7aa8b12d72ac13012d7a0f
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
